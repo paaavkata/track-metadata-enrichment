@@ -1,0 +1,496 @@
+2025-07-09 23:06:05,248 - WARNING - Last.fm API key not configured - mood classification will be limited
+2025-07-09 23:06:05,248 - WARNING - Discogs token not configured - some genre/year data may be missing
+2025-07-09 23:06:05,249 - INFO - Available APIs: MusicBrainz
+2025-07-09 23:23:38,718 - INFO - Available APIs: Last.fm, Discogs, Spotify, MusicBrainz
+2025-07-09 23:23:38,718 - INFO - Found 0 M4A files to process
+2025-07-09 23:23:38,718 - INFO - No M4A files found in directory
+2025-07-09 23:25:51,347 - INFO - Available APIs: Last.fm, Discogs, Spotify, MusicBrainz
+2025-07-09 23:25:51,347 - INFO - Found 0 m4a files to process
+2025-07-09 23:25:51,347 - INFO - No m4a files found in directory
+2025-07-09 23:26:08,817 - INFO - Available APIs: Last.fm, Discogs, Spotify, MusicBrainz
+2025-07-09 23:26:08,818 - INFO - Found 13 wav files to process
+2025-07-09 23:26:08,818 - INFO - Processing: Raining Again.wav
+2025-07-09 23:26:08,819 - INFO - Processing: Juliet Sikora & Return Of The Jaded - What Did I Tell Ya (Original Mix).wav
+2025-07-09 23:26:08,819 - INFO - Processing: Amr Diab - Amarein (Non Grata Edit).wav
+2025-07-09 23:26:08,819 - INFO - Processing: Al Telun.wav
+2025-07-09 23:26:08,847 - WARNING - Missing artist or title for Al Telun.wav
+2025-07-09 23:26:08,847 - INFO - Processing: Jewel Kid, Matt Smallwood - I Get Down [Tech House].wav
+2025-07-09 23:26:08,848 - WARNING - Missing artist or title for Amr Diab - Amarein (Non Grata Edit).wav
+2025-07-09 23:26:08,849 - WARNING - Missing artist or title for Raining Again.wav
+2025-07-09 23:26:08,849 - WARNING - Missing artist or title for Juliet Sikora & Return Of The Jaded - What Did I Tell Ya (Original Mix).wav
+2025-07-09 23:26:08,849 - INFO - Processing: Gabriel Amaral - Mas Que Nada (Extended Mix).wav
+2025-07-09 23:26:08,850 - INFO - Processing: Ubala Ulala.wav
+2025-07-09 23:26:08,850 - WARNING - Missing artist or title for Jewel Kid, Matt Smallwood - I Get Down [Tech House].wav
+2025-07-09 23:26:08,850 - INFO - Processing: Elline, Backeer - Yali Yali (Oginal Mix).wav
+2025-07-09 23:26:08,851 - INFO - Processing: Nowhere To Be Found.wav
+2025-07-09 23:26:08,851 - WARNING - Missing artist or title for Gabriel Amaral - Mas Que Nada (Extended Mix).wav
+2025-07-09 23:26:08,852 - INFO - Processing: Sllash & Doppe - Kyrenia [Tech House].wav
+2025-07-09 23:26:08,852 - WARNING - Missing artist or title for Ubala Ulala.wav
+2025-07-09 23:26:08,853 - WARNING - Missing artist or title for Nowhere To Be Found.wav
+2025-07-09 23:26:08,853 - INFO - Processing: Nosso (Original Mix).wav
+2025-07-09 23:26:08,853 - INFO - Processing: Peremba (Radio Edit).wav
+2025-07-09 23:26:08,854 - WARNING - Missing artist or title for Elline, Backeer - Yali Yali (Oginal Mix).wav
+2025-07-09 23:26:08,854 - WARNING - Missing artist or title for Sllash & Doppe - Kyrenia [Tech House].wav
+2025-07-09 23:26:08,855 - INFO - Processing: Pato's Groove - Macao (Calussa Remix).wav
+2025-07-09 23:26:08,856 - WARNING - Missing artist or title for Pato's Groove - Macao (Calussa Remix).wav
+2025-07-09 23:26:08,857 - WARNING - Missing artist or title for Peremba (Radio Edit).wav
+2025-07-09 23:26:08,857 - WARNING - Missing artist or title for Nosso (Original Mix).wav
+2025-07-09 23:26:08,858 - INFO - 
+==================================================
+2025-07-09 23:26:08,858 - INFO - PROCESSING SUMMARY
+2025-07-09 23:26:08,858 - INFO - ==================================================
+2025-07-09 23:26:08,858 - INFO - Total files: 13
+2025-07-09 23:26:08,858 - INFO - Updated: 0
+2025-07-09 23:26:08,858 - INFO - Already complete: 0
+2025-07-09 23:26:08,858 - INFO - Missing artist/title: 13
+2025-07-09 23:26:08,858 - INFO - Not found: 0
+2025-07-09 23:26:08,858 - INFO - Errors: 0
+2025-07-09 23:26:08,858 - INFO - ==================================================
+2025-07-09 23:32:30,038 - INFO - Available APIs: Last.fm, Discogs, Spotify, MusicBrainz
+2025-07-09 23:32:30,038 - INFO - Found 0 mp3 files to process
+2025-07-09 23:32:30,038 - INFO - No mp3 files found in directory
+2025-07-09 23:32:50,326 - INFO - Available APIs: Last.fm, Discogs, Spotify, MusicBrainz
+2025-07-09 23:32:50,327 - INFO - Found 216 mp3 files to process
+2025-07-09 23:32:50,327 - INFO - Processing: 01-gerald peklar-the only truth  original mix.mp3
+2025-07-09 23:32:50,327 - INFO - Processing: 12-vector lovers-raumklang.mp3
+2025-07-09 23:32:50,328 - INFO - Processing: 01 wawa vs ortega and gold - no problem 2007 -ukhx.mp3
+2025-07-09 23:32:50,328 - INFO - Processing: 01-kurd maverick-the rub-ute.mp3
+2025-07-09 23:32:50,360 - WARNING - Missing artist or title for 01-kurd maverick-the rub-ute.mp3
+2025-07-09 23:32:50,361 - WARNING - Missing artist or title for 01-gerald peklar-the only truth  original mix.mp3
+2025-07-09 23:32:50,362 - INFO - Processing: 50-Will Beats - The Voice is a Choice.mp3
+2025-07-09 23:32:50,362 - INFO - Processing: 101-alphaville-big in japan.mp3
+2025-07-09 23:32:50,363 - WARNING - Missing artist or title for 01 wawa vs ortega and gold - no problem 2007 -ukhx.mp3
+2025-07-09 23:32:50,363 - WARNING - Missing artist or title for 12-vector lovers-raumklang.mp3
+2025-07-09 23:32:50,363 - INFO - Processing: 05. Sebastien Leger - The Rhythm  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,364 - WARNING - Missing artist or title for 101-alphaville-big in japan.mp3
+2025-07-09 23:32:50,366 - INFO - Processing: 12-chris montana - the way it should.mp3
+2025-07-09 23:32:50,367 - INFO - Processing: 30Hz - Daddio.mp3
+2025-07-09 23:32:50,367 - WARNING - Missing artist or title for 50-Will Beats - The Voice is a Choice.mp3
+2025-07-09 23:32:50,368 - INFO - Processing: 25 - robert armani - watch it.mp3
+2025-07-09 23:32:50,370 - WARNING - Missing artist or title for 30Hz - Daddio.mp3
+2025-07-09 23:32:50,370 - INFO - Processing: 03 Electronic Electro.mp3
+2025-07-09 23:32:50,370 - WARNING - Missing artist or title for 05. Sebastien Leger - The Rhythm  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,371 - WARNING - Missing artist or title for 12-chris montana - the way it should.mp3
+2025-07-09 23:32:50,371 - INFO - Processing: 01-funk harmony park-the winner-beatport.mp3
+2025-07-09 23:32:50,372 - INFO - Processing: 10-sub santa - o christmas tree -nbmp3.mp3
+2025-07-09 23:32:50,372 - WARNING - Missing artist or title for 03 Electronic Electro.mp3
+2025-07-09 23:32:50,373 - INFO - Processing: 02-sidney samson-riverside -epicfail.mp3
+2025-07-09 23:32:50,374 - WARNING - Missing artist or title for 25 - robert armani - watch it.mp3
+2025-07-09 23:32:50,374 - INFO - Processing: 04-inez-mi aire -mip.mp3
+2025-07-09 23:32:50,376 - WARNING - Missing artist or title for 01-funk harmony park-the winner-beatport.mp3
+2025-07-09 23:32:50,376 - INFO - Processing: 01-flat eric-flat beat  elektro remix-usf.mp3
+2025-07-09 23:32:50,378 - WARNING - Missing artist or title for 04-inez-mi aire -mip.mp3
+2025-07-09 23:32:50,379 - WARNING - Missing artist or title for 01-flat eric-flat beat  elektro remix-usf.mp3
+2025-07-09 23:32:50,379 - INFO - Processing: 102-sara tavares-one love.mp3
+2025-07-09 23:32:50,379 - INFO - Processing: 11-dj trax - have yourself a merry little christmas-nbmp3.mp3
+2025-07-09 23:32:50,383 - WARNING - Missing artist or title for 10-sub santa - o christmas tree -nbmp3.mp3
+2025-07-09 23:32:50,383 - WARNING - Missing artist or title for 02-sidney samson-riverside -epicfail.mp3
+2025-07-09 23:32:50,384 - INFO - Processing: 03-roy gates-hey.mp3
+2025-07-09 23:32:50,384 - INFO - Processing: 22.Offer Nissim - Final.mp3
+2025-07-09 23:32:50,385 - WARNING - Missing artist or title for 11-dj trax - have yourself a merry little christmas-nbmp3.mp3
+2025-07-09 23:32:50,386 - WARNING - Missing artist or title for 102-sara tavares-one love.mp3
+2025-07-09 23:32:50,386 - INFO - Processing: 07-durbin elf - carol of the bells-nbmp3.mp3
+2025-07-09 23:32:50,387 - INFO - Processing: 01 mark knight feat stephen pickup - susan  club mix-idc.mp3
+2025-07-09 23:32:50,389 - WARNING - Missing artist or title for 03-roy gates-hey.mp3
+2025-07-09 23:32:50,389 - INFO - Processing: 08 Sensation.mp3
+2025-07-09 23:32:50,389 - WARNING - Missing artist or title for 22.Offer Nissim - Final.mp3
+2025-07-09 23:32:50,391 - INFO - Processing: 102-a.t.f.c. presents onephatdeeva feat. lisa millett-bad habit.mp3
+2025-07-09 23:32:50,392 - WARNING - Missing artist or title for 08 Sensation.mp3
+2025-07-09 23:32:50,392 - WARNING - Missing artist or title for 01 mark knight feat stephen pickup - susan  club mix-idc.mp3
+2025-07-09 23:32:50,393 - WARNING - Missing artist or title for 07-durbin elf - carol of the bells-nbmp3.mp3
+2025-07-09 23:32:50,393 - INFO - Processing: 102-john dahlbaeck - if you give me-mst.mp3
+2025-07-09 23:32:50,393 - INFO - Processing: 02. Andreas Stamos - 8a'maste mazi.mp3
+2025-07-09 23:32:50,393 - INFO - Processing: 01-rachael starr-crash  massimo santucci mix.mp3
+2025-07-09 23:32:50,396 - WARNING - Missing artist or title for 102-a.t.f.c. presents onephatdeeva feat. lisa millett-bad habit.mp3
+2025-07-09 23:32:50,396 - INFO - Processing: 01 Beat System-What s going on.mp3
+2025-07-09 23:32:50,398 - WARNING - Missing artist or title for 02. Andreas Stamos - 8a'maste mazi.mp3
+2025-07-09 23:32:50,399 - WARNING - Missing artist or title for 102-john dahlbaeck - if you give me-mst.mp3
+2025-07-09 23:32:50,399 - INFO - Processing: 04-jason rivas-carnivale 2k10 - horny united remix-wws.mp3
+2025-07-09 23:32:50,399 - INFO - Processing: 16 Drop The Presure.mp3
+2025-07-09 23:32:50,404 - WARNING - Missing artist or title for 04-jason rivas-carnivale 2k10 - horny united remix-wws.mp3
+2025-07-09 23:32:50,404 - WARNING - Missing artist or title for 01 Beat System-What s going on.mp3
+2025-07-09 23:32:50,404 - WARNING - Missing artist or title for 01-rachael starr-crash  massimo santucci mix.mp3
+2025-07-09 23:32:50,404 - INFO - Processing: 08-plus 8 ft. georgie dennis-knocking at your door.mp3
+2025-07-09 23:32:50,404 - INFO - Processing: 101-sergio del rio - parazaar - www.torrentazos.com.mp3
+2025-07-09 23:32:50,405 - INFO - Processing: 09 Track 9.mp3
+2025-07-09 23:32:50,406 - WARNING - Missing artist or title for 16 Drop The Presure.mp3
+2025-07-09 23:32:50,407 - WARNING - Missing artist or title for 08-plus 8 ft. georgie dennis-knocking at your door.mp3
+2025-07-09 23:32:50,407 - INFO - Processing: 02-vincent vargas - disco superstar  djkaiser rmx.mp3
+2025-07-09 23:32:50,407 - INFO - Processing: 04 Sing.mp3
+2025-07-09 23:32:50,408 - WARNING - Missing artist or title for 101-sergio del rio - parazaar - www.torrentazos.com.mp3
+2025-07-09 23:32:50,410 - WARNING - Missing artist or title for 09 Track 9.mp3
+2025-07-09 23:32:50,410 - INFO - Processing: 01-kb40 - u music -xtc.mp3
+2025-07-09 23:32:50,410 - INFO - Processing: 06. DJ Masaky - Fuck me.mp3
+2025-07-09 23:32:50,412 - WARNING - Missing artist or title for 02-vincent vargas - disco superstar  djkaiser rmx.mp3
+2025-07-09 23:32:50,414 - INFO - Processing: 06. Brisker and Magitman - Braniac.mp3
+2025-07-09 23:32:50,415 - WARNING - Missing artist or title for 04 Sing.mp3
+2025-07-09 23:32:50,416 - INFO - Processing: 02-alex gopher-the dice-beatport.mp3
+2025-07-09 23:32:50,416 - WARNING - Missing artist or title for 06. DJ Masaky - Fuck me.mp3
+2025-07-09 23:32:50,418 - INFO - Processing: 05-moby-disco lies.mp3
+2025-07-09 23:32:50,418 - WARNING - Missing artist or title for 01-kb40 - u music -xtc.mp3
+2025-07-09 23:32:50,419 - INFO - Processing: 21-mims - this is why im hot.mp3
+2025-07-09 23:32:50,420 - WARNING - Missing artist or title for 06. Brisker and Magitman - Braniac.mp3
+2025-07-09 23:32:50,420 - WARNING - Missing artist or title for 02-alex gopher-the dice-beatport.mp3
+2025-07-09 23:32:50,421 - WARNING - Missing artist or title for 05-moby-disco lies.mp3
+2025-07-09 23:32:50,421 - INFO - Processing: 07 way out west - intensity -ets.mp3
+2025-07-09 23:32:50,421 - INFO - Processing: 06 tiga and zyntherius - sunglasses at night -ets.mp3
+2025-07-09 23:32:50,421 - INFO - Processing: 06 Zombie.mp3
+2025-07-09 23:32:50,423 - WARNING - Missing artist or title for 21-mims - this is why im hot.mp3
+2025-07-09 23:32:50,424 - INFO - Processing: 01 dj rooster and sammy peralta-shake it -aec.mp3
+2025-07-09 23:32:50,425 - WARNING - Missing artist or title for 06 Zombie.mp3
+2025-07-09 23:32:50,425 - INFO - Processing: 02 - Touch And Go - Big Beat.mp3
+2025-07-09 23:32:50,427 - WARNING - Missing artist or title for 07 way out west - intensity -ets.mp3
+2025-07-09 23:32:50,428 - WARNING - Missing artist or title for 06 tiga and zyntherius - sunglasses at night -ets.mp3
+2025-07-09 23:32:50,428 - WARNING - Missing artist or title for 01 dj rooster and sammy peralta-shake it -aec.mp3
+2025-07-09 23:32:50,428 - INFO - Processing: 02. Saeed Younan - Yeah Ha  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,429 - INFO - Processing: 04-roger sanchez-lost.mp3
+2025-07-09 23:32:50,429 - WARNING - Missing artist or title for 02 - Touch And Go - Big Beat.mp3
+2025-07-09 23:32:50,430 - INFO - Processing: 07. Whelan & Dj.Scala Feat. Nikki Belle - Teardrops.mp3
+2025-07-09 23:32:50,431 - INFO - Processing: 01-david kassi-paralyzed in heaven.mp3
+2025-07-09 23:32:50,432 - WARNING - Missing artist or title for 04-roger sanchez-lost.mp3
+2025-07-09 23:32:50,434 - WARNING - Missing artist or title for 02. Saeed Younan - Yeah Ha  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,435 - INFO - Processing: 12-street corner poets-harleys song.mp3
+2025-07-09 23:32:50,436 - INFO - Processing: 01 - Alex Kenji - Move U.mp3
+2025-07-09 23:32:50,437 - WARNING - Missing artist or title for 07. Whelan & Dj.Scala Feat. Nikki Belle - Teardrops.mp3
+2025-07-09 23:32:50,437 - WARNING - Missing artist or title for 01-david kassi-paralyzed in heaven.mp3
+2025-07-09 23:32:50,437 - INFO - Processing: 02-Blank & Jones feat Anne Clark - The Hardest Heart.mp3
+2025-07-09 23:32:50,438 - INFO - Processing: 02-rocco mundo and onno-sacrifice  fuera de la hoya dub.mp3
+2025-07-09 23:32:50,439 - WARNING - Missing artist or title for 12-street corner poets-harleys song.mp3
+2025-07-09 23:32:50,439 - INFO - Processing: 102 hernandez feat tiger lily - let you down.mp3
+2025-07-09 23:32:50,440 - WARNING - Missing artist or title for 01 - Alex Kenji - Move U.mp3
+2025-07-09 23:32:50,440 - INFO - Processing: 03-starkillers-discoteka  kobbe and austin leeds mix-mns.mp3
+2025-07-09 23:32:50,440 - WARNING - Missing artist or title for 02-Blank & Jones feat Anne Clark - The Hardest Heart.mp3
+2025-07-09 23:32:50,443 - INFO - Processing: 05 82-83.mp3
+2025-07-09 23:32:50,443 - WARNING - Missing artist or title for 02-rocco mundo and onno-sacrifice  fuera de la hoya dub.mp3
+2025-07-09 23:32:50,444 - WARNING - Missing artist or title for 102 hernandez feat tiger lily - let you down.mp3
+2025-07-09 23:32:50,444 - WARNING - Missing artist or title for 03-starkillers-discoteka  kobbe and austin leeds mix-mns.mp3
+2025-07-09 23:32:50,444 - INFO - Processing: 03-sultan-protection  tocadisco remix.mp3
+2025-07-09 23:32:50,445 - WARNING - Missing artist or title for 05 82-83.mp3
+2025-07-09 23:32:50,445 - INFO - Processing: 01-david guetta vs the egg-love dont walking away-pulse.mp3
+2025-07-09 23:32:50,446 - INFO - Processing: 001-Stromae - Alors On Danse.mp3
+2025-07-09 23:32:50,446 - INFO - Processing: 12 funknarz - wort and ton-ets.mp3
+2025-07-09 23:32:50,448 - WARNING - Missing artist or title for 01-david guetta vs the egg-love dont walking away-pulse.mp3
+2025-07-09 23:32:50,449 - WARNING - Missing artist or title for 001-Stromae - Alors On Danse.mp3
+2025-07-09 23:32:50,449 - INFO - Processing: 03.robbie rivera - in the mix - the italian connection - sax.mp3
+2025-07-09 23:32:50,449 - INFO - Processing: 8dj rooster and sammy peralta.mp3
+2025-07-09 23:32:50,452 - WARNING - Missing artist or title for 12 funknarz - wort and ton-ets.mp3
+2025-07-09 23:32:50,452 - INFO - Processing: 05-se sa vs. chemical bros - like this like i do it.mp3
+2025-07-09 23:32:50,452 - WARNING - Missing artist or title for 03-sultan-protection  tocadisco remix.mp3
+2025-07-09 23:32:50,453 - INFO - Processing: 07 - John Farnham - You're the Voice.mp3
+2025-07-09 23:32:50,453 - WARNING - Missing artist or title for 8dj rooster and sammy peralta.mp3
+2025-07-09 23:32:50,454 - INFO - Processing: 46-The Bird And The Bee - Fucking Boyfriend.mp3
+2025-07-09 23:32:50,454 - WARNING - Missing artist or title for 03.robbie rivera - in the mix - the italian connection - sax.mp3
+2025-07-09 23:32:50,455 - WARNING - Missing artist or title for 05-se sa vs. chemical bros - like this like i do it.mp3
+2025-07-09 23:32:50,455 - INFO - Processing: 06-billy paul williams feat. nicole henry - santa claus is coming to town-nbmp3.mp3
+2025-07-09 23:32:50,455 - INFO - Processing: 01-starkillers-a1-discoteka.mp3
+2025-07-09 23:32:50,456 - WARNING - Missing artist or title for 07 - John Farnham - You're the Voice.mp3
+2025-07-09 23:32:50,458 - WARNING - Missing artist or title for 46-The Bird And The Bee - Fucking Boyfriend.mp3
+2025-07-09 23:32:50,458 - WARNING - Missing artist or title for 01-starkillers-a1-discoteka.mp3
+2025-07-09 23:32:50,458 - INFO - Processing: 10. Steve Angello & Sebastian Ingrosso - Umbrella.mp3
+2025-07-09 23:32:50,458 - INFO - Processing: 01 Heat it Up.mp3
+2025-07-09 23:32:50,458 - INFO - Processing: 09 John Secada - Just Another Day.mp3
+2025-07-09 23:32:50,460 - WARNING - Missing artist or title for 06-billy paul williams feat. nicole henry - santa claus is coming to town-nbmp3.mp3
+2025-07-09 23:32:50,461 - WARNING - Missing artist or title for 01 Heat it Up.mp3
+2025-07-09 23:32:50,461 - INFO - Processing: 065. Dj Tiesto - Lethal Industry.mp3
+2025-07-09 23:32:50,462 - WARNING - Missing artist or title for 10. Steve Angello & Sebastian Ingrosso - Umbrella.mp3
+2025-07-09 23:32:50,462 - INFO - Processing: 10-starjacker ft wilson roberts-givin all my love.mp3
+2025-07-09 23:32:50,463 - INFO - Processing: 24-juanjo martin and javi reina-skylight.mp3
+2025-07-09 23:32:50,466 - WARNING - Missing artist or title for 065. Dj Tiesto - Lethal Industry.mp3
+2025-07-09 23:32:50,466 - INFO - Processing: 14 till west feat. dj delicious - same man.mp3
+2025-07-09 23:32:50,466 - WARNING - Missing artist or title for 09 John Secada - Just Another Day.mp3
+2025-07-09 23:32:50,467 - INFO - Processing: 13 Tocame.mp3
+2025-07-09 23:32:50,467 - WARNING - Missing artist or title for 10-starjacker ft wilson roberts-givin all my love.mp3
+2025-07-09 23:32:50,467 - INFO - Processing: 05 eagles prey - tontos drum -ets.mp3
+2025-07-09 23:32:50,469 - WARNING - Missing artist or title for 24-juanjo martin and javi reina-skylight.mp3
+2025-07-09 23:32:50,469 - WARNING - Missing artist or title for 14 till west feat. dj delicious - same man.mp3
+2025-07-09 23:32:50,469 - INFO - Processing: 08. Holmes Ives Feat Avalon Frost Eight Letters.mp3
+2025-07-09 23:32:50,470 - WARNING - Missing artist or title for 05 eagles prey - tontos drum -ets.mp3
+2025-07-09 23:32:50,470 - INFO - Processing: 12.T. Lega Feat. Julie Amadeo - Still Time  The Sp1r1t.mp3
+2025-07-09 23:32:50,470 - INFO - Processing: 01 Music Instructor - Electric City.mp3
+2025-07-09 23:32:50,474 - WARNING - Missing artist or title for 12.T. Lega Feat. Julie Amadeo - Still Time  The Sp1r1t.mp3
+2025-07-09 23:32:50,474 - WARNING - Missing artist or title for 01 Music Instructor - Electric City.mp3
+2025-07-09 23:32:50,475 - WARNING - Missing artist or title for 13 Tocame.mp3
+2025-07-09 23:32:50,475 - WARNING - Missing artist or title for 08. Holmes Ives Feat Avalon Frost Eight Letters.mp3
+2025-07-09 23:32:50,475 - INFO - Processing: 01 dr. kucho - la lula -ets.mp3
+2025-07-09 23:32:50,475 - INFO - Processing: 10-angie stone-wish i didnt miss you -chr.mp3
+2025-07-09 23:32:50,475 - INFO - Processing: 05 - AudioTrack 05 - Armani.mp3
+2025-07-09 23:32:50,476 - INFO - Processing: 8john acquaviva pres. swen we.mp3
+2025-07-09 23:32:50,477 - WARNING - Missing artist or title for 10-angie stone-wish i didnt miss you -chr.mp3
+2025-07-09 23:32:50,478 - WARNING - Missing artist or title for 05 - AudioTrack 05 - Armani.mp3
+2025-07-09 23:32:50,478 - INFO - Processing: 16-DJ Double D - Electro.mp3
+2025-07-09 23:32:50,480 - WARNING - Missing artist or title for 8john acquaviva pres. swen we.mp3
+2025-07-09 23:32:50,480 - WARNING - Missing artist or title for 01 dr. kucho - la lula -ets.mp3
+2025-07-09 23:32:50,480 - INFO - Processing: 101 dj chus and david penn pres souldground feat concha buika - we play house.mp3
+2025-07-09 23:32:50,480 - INFO - Processing: 01-zigo feat. joan rochette - sleigh ride-nbmp3.mp3
+2025-07-09 23:32:50,480 - INFO - Processing: 03 - Benny Benassi - No matter what you do.mp3
+2025-07-09 23:32:50,482 - WARNING - Missing artist or title for 16-DJ Double D - Electro.mp3
+2025-07-09 23:32:50,482 - INFO - Processing: 05. ATB - Let U Go.mp3
+2025-07-09 23:32:50,483 - WARNING - Missing artist or title for 03 - Benny Benassi - No matter what you do.mp3
+2025-07-09 23:32:50,483 - INFO - Processing: 09-the bootstraps feat sandy marton-sound of ibiza.mp3
+2025-07-09 23:32:50,486 - WARNING - Missing artist or title for 101 dj chus and david penn pres souldground feat concha buika - we play house.mp3
+2025-07-09 23:32:50,487 - WARNING - Missing artist or title for 05. ATB - Let U Go.mp3
+2025-07-09 23:32:50,487 - INFO - Processing: 10. Mikel Curcio, Noir - La Musica  www.zsoolti2008.blogspot.com.mp3
+2025-07-09 23:32:50,487 - WARNING - Missing artist or title for 01-zigo feat. joan rochette - sleigh ride-nbmp3.mp3
+2025-07-09 23:32:50,487 - INFO - Processing: 01-marco bailey and tom hades-passion cocktail -mim.mp3
+2025-07-09 23:32:50,488 - INFO - Processing: 09-charlie fanclub-nightbreed.mp3
+2025-07-09 23:32:50,488 - WARNING - Missing artist or title for 09-the bootstraps feat sandy marton-sound of ibiza.mp3
+2025-07-09 23:32:50,490 - WARNING - Missing artist or title for 10. Mikel Curcio, Noir - La Musica  www.zsoolti2008.blogspot.com.mp3
+2025-07-09 23:32:50,490 - WARNING - Missing artist or title for 01-marco bailey and tom hades-passion cocktail -mim.mp3
+2025-07-09 23:32:50,490 - INFO - Processing: 02-c and g - bootleg in the gun.mp3
+2025-07-09 23:32:50,491 - INFO - Processing: 14-myntee - hard candy christmas-nbmp3.mp3
+2025-07-09 23:32:50,491 - INFO - Processing: 101-martin solveig-jealousy.mp3
+2025-07-09 23:32:50,492 - WARNING - Missing artist or title for 09-charlie fanclub-nightbreed.mp3
+2025-07-09 23:32:50,492 - INFO - Processing: 02. Marcus - Bara Bara.mp3
+2025-07-09 23:32:50,493 - WARNING - Missing artist or title for 02-c and g - bootleg in the gun.mp3
+2025-07-09 23:32:50,494 - INFO - Processing: 01-skal n man-the secret place-beatport.mp3
+2025-07-09 23:32:50,494 - WARNING - Missing artist or title for 101-martin solveig-jealousy.mp3
+2025-07-09 23:32:50,497 - WARNING - Missing artist or title for 02. Marcus - Bara Bara.mp3
+2025-07-09 23:32:50,499 - INFO - Processing: 07 Uncover.mp3
+2025-07-09 23:32:50,499 - WARNING - Missing artist or title for 01-skal n man-the secret place-beatport.mp3
+2025-07-09 23:32:50,499 - INFO - Processing: 02 Washing Up.mp3
+2025-07-09 23:32:50,500 - WARNING - Missing artist or title for 14-myntee - hard candy christmas-nbmp3.mp3
+2025-07-09 23:32:50,500 - INFO - Processing: 01-commander yablo-wakeup call  dj roman tomashek remix.mp3
+2025-07-09 23:32:50,502 - INFO - Processing: 02-fuzzy hair-yebele.mp3
+2025-07-09 23:32:50,503 - WARNING - Missing artist or title for 02 Washing Up.mp3
+2025-07-09 23:32:50,503 - WARNING - Missing artist or title for 07 Uncover.mp3
+2025-07-09 23:32:50,503 - INFO - Processing: 06-peter rauhofer and victor calderone - do it properly 2008.mp3
+2025-07-09 23:32:50,505 - WARNING - Missing artist or title for 01-commander yablo-wakeup call  dj roman tomashek remix.mp3
+2025-07-09 23:32:50,506 - INFO - Processing: 02- Ah And We Do It Like This.mp3
+2025-07-09 23:32:50,506 - WARNING - Missing artist or title for 02-fuzzy hair-yebele.mp3
+2025-07-09 23:32:50,506 - INFO - Processing: 101-kevin sunray and agent greg feat. lori j. ward - breathe easy kevin sunray dirty mix-mst.mp3
+2025-07-09 23:32:50,507 - INFO - Processing: 01. Dennis Ferrer - Hey Hey  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,507 - WARNING - Missing artist or title for 06-peter rauhofer and victor calderone - do it properly 2008.mp3
+2025-07-09 23:32:50,509 - WARNING - Missing artist or title for 101-kevin sunray and agent greg feat. lori j. ward - breathe easy kevin sunray dirty mix-mst.mp3
+2025-07-09 23:32:50,509 - WARNING - Missing artist or title for 02- Ah And We Do It Like This.mp3
+2025-07-09 23:32:50,509 - INFO - Processing: 21-Jimmy James - Fashionista.mp3
+2025-07-09 23:32:50,509 - INFO - Processing: 01-andrea bertolini - electro setup.mp3
+2025-07-09 23:32:50,510 - INFO - Processing: 9.mp3
+2025-07-09 23:32:50,512 - WARNING - Missing artist or title for 01. Dennis Ferrer - Hey Hey  - www.djadrians.tk.mp3
+2025-07-09 23:32:50,513 - WARNING - Missing artist or title for 01-andrea bertolini - electro setup.mp3
+2025-07-09 23:32:50,514 - INFO - Processing: 07-product.01-ready2rage.mp3
+2025-07-09 23:32:50,515 - WARNING - Missing artist or title for 21-Jimmy James - Fashionista.mp3
+2025-07-09 23:32:50,515 - INFO - Processing: 19 Dance Dance Dance.mp3
+2025-07-09 23:32:50,517 - INFO - Processing: 03-sub santa - jingle bells-nbmp3.mp3
+2025-07-09 23:32:50,517 - WARNING - Missing artist or title for 9.mp3
+2025-07-09 23:32:50,517 - INFO - Processing: 02 benny benassi - freed from desire 2004-ets.mp3
+2025-07-09 23:32:50,519 - WARNING - Missing artist or title for 19 Dance Dance Dance.mp3
+2025-07-09 23:32:50,519 - INFO - Processing: 10-ida corr-let me think about it.mp3
+2025-07-09 23:32:50,520 - WARNING - Missing artist or title for 07-product.01-ready2rage.mp3
+2025-07-09 23:32:50,522 - INFO - Processing: 1.Avicii - Bom djnakai.blogspot.com.mp3
+2025-07-09 23:32:50,522 - WARNING - Missing artist or title for 10-ida corr-let me think about it.mp3
+2025-07-09 23:32:50,523 - WARNING - Missing artist or title for 02 benny benassi - freed from desire 2004-ets.mp3
+2025-07-09 23:32:50,523 - WARNING - Missing artist or title for 03-sub santa - jingle bells-nbmp3.mp3
+2025-07-09 23:32:50,524 - INFO - Processing: 02-danny tenaglia-bottom heavy rmx 2008 phunk investigation in the dark mix.mp3
+2025-07-09 23:32:50,524 - INFO - Processing: 10 - dublex inc. feat. barbara - tocame.mp3
+2025-07-09 23:32:50,524 - INFO - Processing: 02-oliver koletzki-music from the heart -scratch.mp3
+2025-07-09 23:32:50,525 - WARNING - Missing artist or title for 1.Avicii - Bom djnakai.blogspot.com.mp3
+2025-07-09 23:32:50,526 - INFO - Processing: 15 Electro.mp3
+2025-07-09 23:32:50,526 - WARNING - Missing artist or title for 02-danny tenaglia-bottom heavy rmx 2008 phunk investigation in the dark mix.mp3
+2025-07-09 23:32:50,527 - INFO - Processing: 16-delicious feat. tiger lily-yours -1king.mp3
+2025-07-09 23:32:50,528 - WARNING - Missing artist or title for 02-oliver koletzki-music from the heart -scratch.mp3
+2025-07-09 23:32:50,530 - WARNING - Missing artist or title for 10 - dublex inc. feat. barbara - tocame.mp3
+2025-07-09 23:32:50,532 - WARNING - Missing artist or title for 16-delicious feat. tiger lily-yours -1king.mp3
+2025-07-09 23:32:50,532 - WARNING - Missing artist or title for 15 Electro.mp3
+2025-07-09 23:32:50,532 - INFO - Processing: 02-tristan garner-stomp that shit.mp3
+2025-07-09 23:32:50,532 - INFO - Processing: 01-ricky stone-shanghai taxi -beatport.mp3
+2025-07-09 23:32:50,532 - INFO - Processing: 03-kobbe and austin leeds feat mc poppa grassie-headbound champion sound  mario ochoa remix.mp3
+2025-07-09 23:32:50,532 - INFO - Processing: 07-mika vs armand van helden-cant stand losing.mp3
+2025-07-09 23:32:50,534 - WARNING - Missing artist or title for 02-tristan garner-stomp that shit.mp3
+2025-07-09 23:32:50,535 - WARNING - Missing artist or title for 01-ricky stone-shanghai taxi -beatport.mp3
+2025-07-09 23:32:50,535 - INFO - Processing: 06-john dahlback-blink.mp3
+2025-07-09 23:32:50,535 - INFO - Processing: 04-duran duran-falling down.mp3
+2025-07-09 23:32:50,536 - WARNING - Missing artist or title for 03-kobbe and austin leeds feat mc poppa grassie-headbound champion sound  mario ochoa remix.mp3
+2025-07-09 23:32:50,536 - INFO - Processing: 10-marcella-stabbing sally.mp3
+2025-07-09 23:32:50,538 - WARNING - Missing artist or title for 07-mika vs armand van helden-cant stand losing.mp3
+2025-07-09 23:32:50,538 - WARNING - Missing artist or title for 04-duran duran-falling down.mp3
+2025-07-09 23:32:50,539 - INFO - Processing: 01 - Children Of The Grave.mp3
+2025-07-09 23:32:50,539 - WARNING - Missing artist or title for 06-john dahlback-blink.mp3
+2025-07-09 23:32:50,539 - INFO - Processing: 04 ronaldos revenge - ronaldos revenge-ets.mp3
+2025-07-09 23:32:50,539 - WARNING - Missing artist or title for 10-marcella-stabbing sally.mp3
+2025-07-09 23:32:50,540 - INFO - Processing: 01-rocco mundo and onno-sacrifice  original mix.mp3
+2025-07-09 23:32:50,540 - INFO - Processing: 06-the north mississppi allstars-goin back to dixie.mp3
+2025-07-09 23:32:50,541 - WARNING - Missing artist or title for 04 ronaldos revenge - ronaldos revenge-ets.mp3
+2025-07-09 23:32:50,541 - WARNING - Missing artist or title for 01 - Children Of The Grave.mp3
+2025-07-09 23:32:50,542 - INFO - Processing: 01-acquaviva and luetzenkirchen-no fear -beatport.mp3
+2025-07-09 23:32:50,542 - WARNING - Missing artist or title for 06-the north mississppi allstars-goin back to dixie.mp3
+2025-07-09 23:32:50,543 - INFO - Processing: 01-pakito-living on video.mp3
+2025-07-09 23:32:50,543 - WARNING - Missing artist or title for 01-rocco mundo and onno-sacrifice  original mix.mp3
+2025-07-09 23:32:50,544 - INFO - Processing: 04-aaron lordson - little drummer boy-nbmp3.mp3
+2025-07-09 23:32:50,544 - INFO - Processing: 01 - Track  1.mp3
+2025-07-09 23:32:50,545 - WARNING - Missing artist or title for 01-acquaviva and luetzenkirchen-no fear -beatport.mp3
+2025-07-09 23:32:50,547 - INFO - Processing: 102-dirty laundry - calabria - www.torrentazos.com.mp3
+2025-07-09 23:32:50,547 - WARNING - Missing artist or title for 01-pakito-living on video.mp3
+2025-07-09 23:32:50,549 - INFO - Processing: 02-aboga and alex font-excuse me.mp3
+2025-07-09 23:32:50,549 - WARNING - Missing artist or title for 04-aaron lordson - little drummer boy-nbmp3.mp3
+2025-07-09 23:32:50,551 - INFO - Processing: 02-marco bailey and tom hades-passion cocktail -mim.mp3
+2025-07-09 23:32:50,552 - WARNING - Missing artist or title for 02-aboga and alex font-excuse me.mp3
+2025-07-09 23:32:50,553 - INFO - Processing: 01-golden boy with miss kittin-rippin kittin  deux remix side a-nvs+(27.06.mp3
+2025-07-09 23:32:50,553 - WARNING - Missing artist or title for 01 - Track  1.mp3
+2025-07-09 23:32:50,553 - INFO - Processing: 13 - Paul van Dyk - New York City.mp3
+2025-07-09 23:32:50,555 - WARNING - Missing artist or title for 02-marco bailey and tom hades-passion cocktail -mim.mp3
+2025-07-09 23:32:50,556 - WARNING - Missing artist or title for 01-golden boy with miss kittin-rippin kittin  deux remix side a-nvs+(27.06.mp3
+2025-07-09 23:32:50,557 - INFO - Processing: 02-mark james ft. hamish-i want you.mp3
+2025-07-09 23:32:50,557 - INFO - Processing: 09 Say Say Say.mp3
+2025-07-09 23:32:50,557 - WARNING - Missing artist or title for 102-dirty laundry - calabria - www.torrentazos.com.mp3
+2025-07-09 23:32:50,559 - WARNING - Missing artist or title for 13 - Paul van Dyk - New York City.mp3
+2025-07-09 23:32:50,559 - WARNING - Missing artist or title for 09 Say Say Say.mp3
+2025-07-09 23:32:50,559 - INFO - Processing: 47-TOM SLAKE - Club Siren  HOUSE RMX ELECTRO 2006 JUIN.mp3
+2025-07-09 23:32:50,560 - INFO - Processing: 8gangester - last night i was.mp3
+2025-07-09 23:32:50,560 - INFO - Processing: 04-david guetta feat. kid cudi-memories.mp3
+2025-07-09 23:32:50,561 - WARNING - Missing artist or title for 02-mark james ft. hamish-i want you.mp3
+2025-07-09 23:32:50,562 - INFO - Processing: 22-jodi lee - tell me.mp3
+2025-07-09 23:32:50,564 - WARNING - Missing artist or title for 8gangester - last night i was.mp3
+2025-07-09 23:32:50,565 - WARNING - Missing artist or title for 04-david guetta feat. kid cudi-memories.mp3
+2025-07-09 23:32:50,565 - INFO - Processing: 06-andy craze - click.mp3
+2025-07-09 23:32:50,565 - INFO - Processing: 10 - Poison - Nothin but a good time.mp3
+2025-07-09 23:32:50,569 - WARNING - Missing artist or title for 06-andy craze - click.mp3
+2025-07-09 23:32:50,569 - WARNING - Missing artist or title for 22-jodi lee - tell me.mp3
+2025-07-09 23:32:50,569 - WARNING - Missing artist or title for 47-TOM SLAKE - Club Siren  HOUSE RMX ELECTRO 2006 JUIN.mp3
+2025-07-09 23:32:50,570 - INFO - Processing: 02-morandi - angels.mp3
+2025-07-09 23:32:50,570 - INFO - Processing: 01-mentalman-sick-beatport.mp3
+2025-07-09 23:32:50,570 - WARNING - Missing artist or title for 10 - Poison - Nothin but a good time.mp3
+2025-07-09 23:32:50,571 - INFO - Processing: 08-d.i.m.-is you.mp3
+2025-07-09 23:32:50,571 - INFO - Processing: 04 - N.O.H.A. - Balkan Hot Step.mp3
+2025-07-09 23:32:50,572 - WARNING - Missing artist or title for 02-morandi - angels.mp3
+2025-07-09 23:32:50,572 - INFO - Processing: 08 jvm - in the future-ets.mp3
+2025-07-09 23:32:50,574 - WARNING - Missing artist or title for 08 jvm - in the future-ets.mp3
+2025-07-09 23:32:50,574 - WARNING - Missing artist or title for 01-mentalman-sick-beatport.mp3
+2025-07-09 23:32:50,576 - INFO - Processing: 09-charles afton - dance of the sugar plum fairy-nbmp3.mp3
+2025-07-09 23:32:50,576 - WARNING - Missing artist or title for 04 - N.O.H.A. - Balkan Hot Step.mp3
+2025-07-09 23:32:50,577 - WARNING - Missing artist or title for 08-d.i.m.-is you.mp3
+2025-07-09 23:32:50,577 - INFO - Processing: 05-love colony feat. six - white christmas-nbmp3.mp3
+2025-07-09 23:32:50,577 - INFO - Processing: 14 Elektroballoon.mp3
+2025-07-09 23:32:50,577 - INFO - Processing: 02-kurd maverick-the rub  dub mix-ute.mp3
+2025-07-09 23:32:50,578 - WARNING - Missing artist or title for 09-charles afton - dance of the sugar plum fairy-nbmp3.mp3
+2025-07-09 23:32:50,579 - INFO - Processing: 01-laidback luke - break the house down.mp3
+2025-07-09 23:32:50,583 - WARNING - Missing artist or title for 14 Elektroballoon.mp3
+2025-07-09 23:32:50,583 - WARNING - Missing artist or title for 05-love colony feat. six - white christmas-nbmp3.mp3
+2025-07-09 23:32:50,584 - INFO - Processing: 44-secret concept ft julio torres-moon shitar  original ethnic mix.mp3
+2025-07-09 23:32:50,585 - INFO - Processing: 16. Guano Apes - Big In Japan.mp3
+2025-07-09 23:32:50,586 - WARNING - Missing artist or title for 02-kurd maverick-the rub  dub mix-ute.mp3
+2025-07-09 23:32:50,587 - WARNING - Missing artist or title for 01-laidback luke - break the house down.mp3
+2025-07-09 23:32:50,588 - WARNING - Missing artist or title for 44-secret concept ft julio torres-moon shitar  original ethnic mix.mp3
+2025-07-09 23:32:50,588 - INFO - Processing: 02-jon kennedy - a child is born-nbmp3.mp3
+2025-07-09 23:32:50,588 - INFO - Processing: 01 layo and bushwacka - walk like an egyptian-idc.mp3
+2025-07-09 23:32:50,588 - INFO - Processing: 03-alex gaudino-watch out.mp3
+2025-07-09 23:32:50,590 - WARNING - Missing artist or title for 16. Guano Apes - Big In Japan.mp3
+2025-07-09 23:32:50,590 - WARNING - Missing artist or title for 03-alex gaudino-watch out.mp3
+2025-07-09 23:32:50,592 - INFO - Processing: 45-Starkillers feat. Gina - Slave.mp3
+2025-07-09 23:32:50,592 - INFO - Processing: 049 - Santana - Carlos Santana - Europa.mp3
+2025-07-09 23:32:50,592 - WARNING - Missing artist or title for 02-jon kennedy - a child is born-nbmp3.mp3
+2025-07-09 23:32:50,594 - INFO - Processing: 14-dj aligator - fly high feat me and my.mp3
+2025-07-09 23:32:50,594 - WARNING - Missing artist or title for 01 layo and bushwacka - walk like an egyptian-idc.mp3
+2025-07-09 23:32:50,597 - WARNING - Missing artist or title for 049 - Santana - Carlos Santana - Europa.mp3
+2025-07-09 23:32:50,597 - WARNING - Missing artist or title for 45-Starkillers feat. Gina - Slave.mp3
+2025-07-09 23:32:50,598 - INFO - Processing: 05. Grant Nelson - Seasons Of Jack.mp3
+2025-07-09 23:32:50,598 - INFO - Processing: 102-bob sinclar feat. farrell lennon - tennessee -ihf.mp3
+2025-07-09 23:32:50,597 - INFO - Processing: 01-stan kolev-midwayers  original mix.mp3
+2025-07-09 23:32:50,599 - WARNING - Missing artist or title for 14-dj aligator - fly high feat me and my.mp3
+2025-07-09 23:32:50,601 - WARNING - Missing artist or title for 05. Grant Nelson - Seasons Of Jack.mp3
+2025-07-09 23:32:50,602 - WARNING - Missing artist or title for 102-bob sinclar feat. farrell lennon - tennessee -ihf.mp3
+2025-07-09 23:32:50,602 - INFO - Processing: 01-Digital Freq - Disco Falls.mp3
+2025-07-09 23:32:50,603 - WARNING - Missing artist or title for 01-stan kolev-midwayers  original mix.mp3
+2025-07-09 23:32:50,603 - INFO - Processing: 11.Age Of Steam - Disco Mafia.mp3
+2025-07-09 23:32:50,603 - INFO - Processing: 01-serge devant feat hadley-ghost  radio edit.mp3
+2025-07-09 23:32:50,603 - INFO - Processing: 03-the beach and tia-suntan -scratch.mp3
+2025-07-09 23:32:50,605 - WARNING - Missing artist or title for 11.Age Of Steam - Disco Mafia.mp3
+2025-07-09 23:32:50,605 - INFO - Processing: 03 trisko - musak -ets.mp3
+2025-07-09 23:32:50,607 - WARNING - Missing artist or title for 03-the beach and tia-suntan -scratch.mp3
+2025-07-09 23:32:50,607 - WARNING - Missing artist or title for 01-serge devant feat hadley-ghost  radio edit.mp3
+2025-07-09 23:32:50,607 - INFO - Processing: 04-ricky stone-shanghai taxi -beatport.mp3
+2025-07-09 23:32:50,608 - INFO - Processing: 09 alphawezen - gai soleil-ets.mp3
+2025-07-09 23:32:50,609 - WARNING - Missing artist or title for 03 trisko - musak -ets.mp3
+2025-07-09 23:32:50,609 - WARNING - Missing artist or title for 01-Digital Freq - Disco Falls.mp3
+2025-07-09 23:32:50,610 - WARNING - Missing artist or title for 04-ricky stone-shanghai taxi -beatport.mp3
+2025-07-09 23:32:50,610 - INFO - Processing: 13-rauder and hobbs - do you hear what i hear-nbmp3.mp3
+2025-07-09 23:32:50,611 - WARNING - Missing artist or title for 09 alphawezen - gai soleil-ets.mp3
+2025-07-09 23:32:50,611 - INFO - Processing: 01-cirez d-a1-punch drunk-dfm.mp3
+2025-07-09 23:32:50,611 - INFO - Processing: 02. Pakito - Livin' On Video.mp3
+2025-07-09 23:32:50,611 - INFO - Processing: 08. Miguel Picasso - Southern Nights.mp3
+2025-07-09 23:32:50,614 - WARNING - Missing artist or title for 13-rauder and hobbs - do you hear what i hear-nbmp3.mp3
+2025-07-09 23:32:50,614 - INFO - Processing: 04-ashley wallbridge - addiction.mp3
+2025-07-09 23:32:50,616 - WARNING - Missing artist or title for 02. Pakito - Livin' On Video.mp3
+2025-07-09 23:32:50,616 - WARNING - Missing artist or title for 01-cirez d-a1-punch drunk-dfm.mp3
+2025-07-09 23:32:50,617 - WARNING - Missing artist or title for 08. Miguel Picasso - Southern Nights.mp3
+2025-07-09 23:32:50,618 - INFO - Processing: 01-faithless-a1 why go -b2r.mp3
+2025-07-09 23:32:50,618 - WARNING - Missing artist or title for 04-ashley wallbridge - addiction.mp3
+2025-07-09 23:32:50,618 - INFO - Processing: 02 cicada - the things you say  dirty south remix-idc.mp3
+2025-07-09 23:32:50,618 - INFO - Processing:  18 - The Pink Panther Theme.mp3
+2025-07-09 23:32:50,618 - INFO - Processing: 101-roger sanchez - lost original mix.mp3
+2025-07-09 23:32:50,619 - WARNING - Missing artist or title for 01-faithless-a1 why go -b2r.mp3
+2025-07-09 23:32:50,620 - INFO - Processing: 101-eric prydz vs. floyd - proper education -ihf.mp3
+2025-07-09 23:32:50,621 - WARNING - Missing artist or title for 02 cicada - the things you say  dirty south remix-idc.mp3
+2025-07-09 23:32:50,621 - INFO - Processing: 12-billy paul williams feat. nicole henry - the holly and the ivy-nbmp3.mp3
+2025-07-09 23:32:50,622 - WARNING - Missing artist or title for 101-roger sanchez - lost original mix.mp3
+2025-07-09 23:32:50,623 - WARNING - Missing artist or title for 101-eric prydz vs. floyd - proper education -ihf.mp3
+2025-07-09 23:32:50,624 - INFO - Processing: 14 p.f.n. - put your earphones on-ets.mp3
+2025-07-09 23:32:50,624 - INFO - Processing: 01-mark knight feat the b.b.n-the reason.mp3
+2025-07-09 23:32:50,624 - WARNING - Missing artist or title for  18 - The Pink Panther Theme.mp3
+2025-07-09 23:32:50,624 - INFO - Processing: 01-Benassi Bros feat. Dhany - Make Me Feel.mp3
+2025-07-09 23:32:50,626 - WARNING - Missing artist or title for 12-billy paul williams feat. nicole henry - the holly and the ivy-nbmp3.mp3
+2025-07-09 23:32:50,627 - WARNING - Missing artist or title for 14 p.f.n. - put your earphones on-ets.mp3
+2025-07-09 23:32:50,627 - INFO - Processing: 01-Through The Fire And Flames.mp3
+2025-07-09 23:32:50,627 - INFO - Processing: 02-pendulum - slam-boss.mp3
+2025-07-09 23:32:50,630 - WARNING - Missing artist or title for 01-mark knight feat the b.b.n-the reason.mp3
+2025-07-09 23:32:50,631 - INFO - Processing: 1.Karmin Shiff & Manuel Costa feat Juliana Pasini - Santo Brasil.mp3
+2025-07-09 23:32:50,633 - WARNING - Missing artist or title for 01-Benassi Bros feat. Dhany - Make Me Feel.mp3
+2025-07-09 23:32:50,633 - WARNING - Missing artist or title for 02-pendulum - slam-boss.mp3
+2025-07-09 23:32:50,633 - INFO - Processing: 01-Iio feat. Frank Bailey - Chastity.mp3
+2025-07-09 23:32:50,635 - WARNING - Missing artist or title for 01-Through The Fire And Flames.mp3
+2025-07-09 23:32:50,635 - INFO - Processing: 11 robie rivera - trippin -ets.mp3
+2025-07-09 23:32:50,636 - INFO - Processing: 02 Ian Round - Dancin.mp3
+2025-07-09 23:32:50,637 - WARNING - Missing artist or title for 1.Karmin Shiff & Manuel Costa feat Juliana Pasini - Santo Brasil.mp3
+2025-07-09 23:32:50,637 - WARNING - Missing artist or title for 01-Iio feat. Frank Bailey - Chastity.mp3
+2025-07-09 23:32:50,637 - INFO - Processing: 08-cortex cure - i believe in father christmas-nbmp3.mp3
+2025-07-09 23:32:50,638 - INFO - Processing: 10 Kind Of Voodoo.mp3
+2025-07-09 23:32:50,639 - WARNING - Missing artist or title for 11 robie rivera - trippin -ets.mp3
+2025-07-09 23:32:50,639 - WARNING - Missing artist or title for 02 Ian Round - Dancin.mp3
+2025-07-09 23:32:50,639 - INFO - Processing: 14-david guetta - toyfriend.mp3
+2025-07-09 23:32:50,639 - INFO - Processing: 11-greg cerrone-invincible.mp3
+2025-07-09 23:32:50,641 - WARNING - Missing artist or title for 14-david guetta - toyfriend.mp3
+2025-07-09 23:32:50,645 - INFO - Processing: 8Track-5.mp3
+2025-07-09 23:32:50,645 - WARNING - Missing artist or title for 08-cortex cure - i believe in father christmas-nbmp3.mp3
+2025-07-09 23:32:50,645 - WARNING - Missing artist or title for 10 Kind Of Voodoo.mp3
+2025-07-09 23:32:50,645 - WARNING - Missing artist or title for 11-greg cerrone-invincible.mp3
+2025-07-09 23:32:50,646 - INFO - Processing: 18 Dirtysummer.mp3
+2025-07-09 23:32:50,647 - INFO - Processing: 02-golden boy with miss kittin-rippin kittin  globe tension dub side b-nvs+(27.06.mp3
+2025-07-09 23:32:50,647 - INFO - Processing: 11 Happymen vs. Gala - Freed From Desire.mp3
+2025-07-09 23:32:50,647 - WARNING - Missing artist or title for 8Track-5.mp3
+2025-07-09 23:32:50,648 - INFO - Processing: 01 viper xxl - a1 doinn selling drugs-oxd.mp3
+2025-07-09 23:32:50,650 - WARNING - Missing artist or title for 02-golden boy with miss kittin-rippin kittin  globe tension dub side b-nvs+(27.06.mp3
+2025-07-09 23:32:50,651 - WARNING - Missing artist or title for 01 viper xxl - a1 doinn selling drugs-oxd.mp3
+2025-07-09 23:32:50,651 - INFO - Processing: 11 Open Your Eyes.mp3
+2025-07-09 23:32:50,651 - INFO - Processing: 01-nightcrawlers - push the feeling on 2008.mp3
+2025-07-09 23:32:50,653 - WARNING - Missing artist or title for 11 Happymen vs. Gala - Freed From Desire.mp3
+2025-07-09 23:32:50,654 - WARNING - Missing artist or title for 18 Dirtysummer.mp3
+2025-07-09 23:32:50,655 - INFO - Processing: 06. Aaron Smith feat Luvli Dancin - Dancin.mp3
+2025-07-09 23:32:50,655 - INFO - Processing: 03 - africa bambaataa - frantic situation.mp3
+2025-07-09 23:32:50,656 - WARNING - Missing artist or title for 11 Open Your Eyes.mp3
+2025-07-09 23:32:50,656 - WARNING - Missing artist or title for 01-nightcrawlers - push the feeling on 2008.mp3
+2025-07-09 23:32:50,657 - INFO - Processing: 02-brothers incognito feat eve justine - colours of the night.mp3
+2025-07-09 23:32:50,658 - INFO - Processing: 12 Mismoplastico.mp3
+2025-07-09 23:32:50,659 - WARNING - Missing artist or title for 06. Aaron Smith feat Luvli Dancin - Dancin.mp3
+2025-07-09 23:32:50,659 - WARNING - Missing artist or title for 03 - africa bambaataa - frantic situation.mp3
+2025-07-09 23:32:50,660 - INFO - Processing: 01-stan kolev-new beginning-hqem.mp3
+2025-07-09 23:32:50,660 - INFO - Processing: 15 -- ViRUS - Odna Minuta.mp3
+2025-07-09 23:32:50,661 - WARNING - Missing artist or title for 02-brothers incognito feat eve justine - colours of the night.mp3
+2025-07-09 23:32:50,664 - WARNING - Missing artist or title for 12 Mismoplastico.mp3
+2025-07-09 23:32:50,664 - INFO - Processing: 11-tony senghore-yeah and so what.mp3
+2025-07-09 23:32:50,665 - INFO - Processing: 13 Bitch.mp3
+2025-07-09 23:32:50,666 - WARNING - Missing artist or title for 01-stan kolev-new beginning-hqem.mp3
+2025-07-09 23:32:50,666 - INFO - Processing: 17 Knockout.mp3
+2025-07-09 23:32:50,669 - WARNING - Missing artist or title for 11-tony senghore-yeah and so what.mp3
+2025-07-09 23:32:50,670 - WARNING - Missing artist or title for 15 -- ViRUS - Odna Minuta.mp3
+2025-07-09 23:32:50,672 - WARNING - Missing artist or title for 17 Knockout.mp3
+2025-07-09 23:32:50,673 - WARNING - Missing artist or title for 13 Bitch.mp3
+2025-07-09 23:32:50,673 - INFO - 
+==================================================
+2025-07-09 23:32:50,673 - INFO - PROCESSING SUMMARY
+2025-07-09 23:32:50,673 - INFO - ==================================================
+2025-07-09 23:32:50,673 - INFO - Total files: 216
+2025-07-09 23:32:50,673 - INFO - Updated: 0
+2025-07-09 23:32:50,674 - INFO - Already complete: 0
+2025-07-09 23:32:50,674 - INFO - Missing artist/title: 216
+2025-07-09 23:32:50,674 - INFO - Not found: 0
+2025-07-09 23:32:50,674 - INFO - Errors: 0
+2025-07-09 23:32:50,674 - INFO - ==================================================
